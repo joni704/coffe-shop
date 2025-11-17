@@ -146,6 +146,7 @@ span {
 .fun {
     display: flex;
     gap: 25px;
+    justify-content: center;
     padding: 0 80px;
 }
 
@@ -226,7 +227,8 @@ ul li::before {
 
 .aboutus {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 105px;
     padding: 30px;
 }
 
